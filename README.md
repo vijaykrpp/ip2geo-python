@@ -71,6 +71,7 @@ client = Ip2Geo("YOUR_API_KEY")
 data = client.lookup("check")
 
 print(data)
+```
 
 
 ## API Response
