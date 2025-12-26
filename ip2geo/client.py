@@ -4,7 +4,7 @@ import requests
 class Ip2Geo:
     BASE_URL = "https://api.ip2geoapi.com/ip"
 
-    def __init__(self, api_key: str | None = None, timeout: int = 10):
+    def __init__(self, api_key: str | None = None, timeout: int = 60):
         self.api_key = api_key
         self.timeout = timeout
 

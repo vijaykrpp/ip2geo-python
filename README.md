@@ -1,5 +1,8 @@
 # ip2geo — Python SDK
 
+[![PyPI version](https://img.shields.io/pypi/v/ip2geoapi.svg)](https://pypi.org/project/ip2geoapi/)
+[![License](https://img.shields.io/pypi/l/ip2geoapi.svg)](https://pypi.org/project/ip2geoapi/)
+
 Official Python SDK for the **Ip2Geo API** — fast IP geolocation, network intelligence, and security risk detection.
 
 ---
