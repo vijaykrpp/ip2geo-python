@@ -4,7 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ip2geoapi"
+<<<<<<< HEAD
 version = "1.0.0"
+=======
+version = "0.1.4"
+>>>>>>> 3c68494a13e5823462d91113c6bfad5102a55a3e
 description = "Official Python SDK for the Ip2Geo API"
 readme = "README.md"
 license = { text = "MIT" }
